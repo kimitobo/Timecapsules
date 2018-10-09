@@ -22,7 +22,8 @@ Are there any? Not sent by us that's for sure. Is there, or has there been civil
 
 (TBD): Excercise description
 
-## Excercise 3
+# Excercise 3
+## Cup
 
 Let's make some Time Capsules! (TBD: Design brief)
 
@@ -34,7 +35,17 @@ Let's make some Time Capsules! (TBD: Design brief)
 
 ![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true)
 
+## Stone
 
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_163023.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_165615.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_172148.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_175115.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181005_155816.jpg?raw=true)
 
 
 
