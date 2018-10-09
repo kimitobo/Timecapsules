@@ -28,11 +28,11 @@ Let's make some Time Capsules! (TBD: Design brief)
 
 ![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181009_013451.jpg?raw=true)
 
-https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_231030.jpg?raw=true
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_231030.jpg?raw=true)
 
-https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235518.jpg?raw=true
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235518.jpg?raw=true)
 
-https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true)
 
 
 
