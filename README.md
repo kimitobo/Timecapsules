@@ -47,7 +47,7 @@ https://www.theregister.co.uk/2012/09/24/hitachi_glass_storage/
 
 https://www.sciencemag.org/news/2017/03/dna-could-store-all-worlds-data-one-room
 
-## 2001 Space Odyssey obelisk
+## 2001 Space Odyssey monolith
 
 https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)
 
