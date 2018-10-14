@@ -8,7 +8,7 @@ In this workshop, we take more playful approach and try to map various scenarios
 
 # For your inspiration
 
-Time capsules:
+## Time capsules:
 
 https://crypt.oglethorpe.edu/international-time-capsule-society/register-your-time-capsule/
 
@@ -18,11 +18,13 @@ http://katiepaterson.org/portfolio/future-library/
 
 https://www.zmescience.com/other/feature-post/georgia-guidestones-mysterious-instructions-for-the-post-apocalypse/
 
-Voyager Golden Record
+https://en.wikipedia.org/wiki/Detroit_Century_Box
+
+## Voyager Golden Record
 
 https://en.wikipedia.org/wiki/Voyager_Golden_Record
 
-The Raycat Solution
+## The Raycat Solution
 
 http://www.theraycatsolution.com
 
@@ -30,27 +32,32 @@ https://en.wikipedia.org/wiki/Human_Interference_Task_Force
 
 https://99percentinvisible.org/episode/ten-thousand-years/
 
-Saving data on DNA
+## Saving data on DNA
 
 https://www.sciencemag.org/news/2017/03/dna-could-store-all-worlds-data-one-room
 
-Hitatchi 300M
+## Hitatchi's silicone chip
 
 https://www.theregister.co.uk/2012/09/24/hitachi_glass_storage/
 
-The Rosetta project
+## The Rosetta project
 
 https://rosettaproject.org/
 
 http://longnow.org/
 
-Paleolithic hashtags
+## Paleolithic hashtags
 
 https://www.nature.com/articles/d41586-018-06657-x
 
-Message in the bottle
+## 2001 Space Odyssey obelisk
+https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)
 
-2001 Space Odyssey obelisk
+## Message in the bottle
+
+https://en.wikipedia.org/wiki/Message_in_a_bottle
+
+------------------------------------------------------------------------
 
 # The timecapsule design matrix
 
@@ -63,6 +70,10 @@ For planning of your time capsule we create a design tool that has few key param
 Usually time capsules written text, telling about the time of its creation and some artefacts of that time. If the timec capsule has date when it should be opened the earliest, it can also include future predictions of that time in the future. We are concentrating more on shorter message: If you could send one thing in to the future, what would it be? Piece of wisdom, warning, a joke, your secret food recipe or a poem. Think this in connection of the desired duration, how will it be understood if the timespan is longer. To get your design process started, lets gather quickly many ideas for the possible messages. This is a warm-up, don't think too much, there is still time to choose something completely different. You can work on the message ideas overnight and continue the next day.
 
 (post-its)
+
+(design drafts)
+
+(what materials we have, preparation for 2nd day)
 
 ---------
 
