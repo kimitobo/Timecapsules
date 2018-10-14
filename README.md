@@ -10,15 +10,16 @@ In this workshop, we take more playful approach and try to map various scenarios
 
 ## Time capsules:
 
+https://en.wikipedia.org/wiki/List_of_time_capsules
+
 https://crypt.oglethorpe.edu/international-time-capsule-society/register-your-time-capsule/
 
-https://en.wikipedia.org/wiki/List_of_time_capsules
+https://en.wikipedia.org/wiki/Detroit_Century_Box
 
 http://katiepaterson.org/portfolio/future-library/
 
 https://www.zmescience.com/other/feature-post/georgia-guidestones-mysterious-instructions-for-the-post-apocalypse/
 
-https://en.wikipedia.org/wiki/Detroit_Century_Box
 
 ## Voyager Golden Record
 
@@ -32,30 +33,43 @@ https://en.wikipedia.org/wiki/Human_Interference_Task_Force
 
 https://99percentinvisible.org/episode/ten-thousand-years/
 
-## Saving data on DNA
-
-https://www.sciencemag.org/news/2017/03/dna-could-store-all-worlds-data-one-room
-
-## Hitatchi's silicone chip
-
-https://www.theregister.co.uk/2012/09/24/hitachi_glass_storage/
-
 ## The Rosetta project
 
 https://rosettaproject.org/
 
 http://longnow.org/
 
-## Paleolithic hashtags
+## Hitatchi's silicone chip
 
-https://www.nature.com/articles/d41586-018-06657-x
+https://www.theregister.co.uk/2012/09/24/hitachi_glass_storage/
+
+## Saving data on DNA
+
+https://www.sciencemag.org/news/2017/03/dna-could-store-all-worlds-data-one-room
 
 ## 2001 Space Odyssey obelisk
+
 https://en.wikipedia.org/wiki/Monolith_(Space_Odyssey)
 
 ## Message in the bottle
 
 https://en.wikipedia.org/wiki/Message_in_a_bottle
+
+## Paleolithic "hashtags"
+
+https://www.nature.com/articles/d41586-018-06657-x
+
+## Proto-literate systems
+
+https://en.wikipedia.org/wiki/Jiahu_symbols
+
+https://en.wikipedia.org/wiki/Egyptian_hieroglyphs
+
+## Emojis & pictograms
+
+https://en.wikipedia.org/wiki/Emoji
+
+https://material.io/tools/icons/?style=baseline
 
 ------------------------------------------------------------------------
 
