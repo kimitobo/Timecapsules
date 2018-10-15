@@ -16,6 +16,8 @@ https://crypt.oglethorpe.edu/international-time-capsule-society/register-your-ti
 
 https://en.wikipedia.org/wiki/Detroit_Century_Box
 
+https://newatlas.com/mit-time-capsule/40532/
+
 http://katiepaterson.org/portfolio/future-library/
 
 https://www.zmescience.com/other/feature-post/georgia-guidestones-mysterious-instructions-for-the-post-apocalypse/
