@@ -1,5 +1,6 @@
 # Timecapsules
 ## Concepts for cross-eon communication -workshop
+(text work in progress during the workshop)
 
 How to send messages to the future? What messages should or should not be sent? Is someone trying to send us messages from the past but we are not listening? Some attempts have been made to send warning messages of our nuclear waste 100.000 years to the future but the task seem to be impossible.
 
