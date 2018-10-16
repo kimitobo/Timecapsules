@@ -2,13 +2,14 @@
 ## Solder the PCB
 
 
-1. Solder the 100nF (104) (usually)brown capacitor below the audio jack footprint
+### 1. Solder the 100nF (104) (usually)brown capacitor below the audio jack footprint
 ![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_185612.jpg?raw=true)
 
-2. Solder 2x 22Kohm voltage divider resitors undet the first cap
+### 2. Solder 2x 22Kohm voltage divider resitors undet the first cap
 ![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_190016.jpg?raw=true)
 
-3. Solder 470ohm LED resistor on the opposite side of the center
+### 3. Solder 470ohm LED resistor on the opposite side of the center
+![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_190758.jpg?raw=true)
 
 4. Solder the audio jack in place
 
