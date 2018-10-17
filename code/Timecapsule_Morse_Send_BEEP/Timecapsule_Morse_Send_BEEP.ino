@@ -57,13 +57,13 @@ const char * MorseTable[] = {
 
 const char message[] = " DONUT ";
 
-int dotLength = 200;
-int dashLength =dotLength*3;
+int dotLength = 200;                    // length of the dot 200ms
+int dashLength =dotLength*3;            // length of the dash is 200ms x 3 = 600ms
 
 void setup()
 {
   pinMode(BEEPPIN, OUTPUT);
-  digitalWrite(BEEPPIN, LOW);   // turn the LED on
+  digitalWrite(BEEPPIN, LOW);
   delay(2000);
   
 }
