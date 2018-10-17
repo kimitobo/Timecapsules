@@ -15,7 +15,7 @@ ___________.__               _________                           .__
                                 |   U   |                                     
            (unused)  D5/A0  PB5-|       |- VCC  (3.7 - 5V)                          
          *SD-prog -> D3/A3  PB3-| ATTINY|- PB2  D2/A1 (unused)
-                  (unused)  PB4-|   85  |- PB1  D1    LED
+                  (unused)  PB4-|   85  |- PB1  D1    BEEP
                             GND-|       |- PB0  D0 -> (unused)
                                 |_______|
 
@@ -35,7 +35,7 @@ ___________.__               _________                           .__
 #include <avr/power.h>
 #endif
 
-#define LEDPIN 1
+#define BEEPPIN 1
 
 const char * MorseTable[] = {
         // space, !, ", #, $, %, &, '
@@ -55,15 +55,15 @@ const char * MorseTable[] = {
 
         };
 
-const char message[] = " PLAYAROUND2018 ";
+const char message[] = " DONUT ";
 
 int dotLength = 200;
 int dashLength =dotLength*3;
 
 void setup()
 {
-  pinMode(LEDPIN, OUTPUT);
-  digitalWrite(LEDPIN, LOW);   // turn the LED on
+  pinMode(BEEPPIN, OUTPUT);
+  digitalWrite(BEEPPIN, LOW);   // turn the LED on
   delay(2000);
   
 }
@@ -93,16 +93,16 @@ void flashDashDot(const char * morseCode)
 
 void dot()
 {
-  digitalWrite(LEDPIN, HIGH);   // turn the LED on
+  digitalWrite(BEEPPIN, HIGH);   // turn the BEEP on
   delay(dotLength);
-  digitalWrite(LEDPIN, LOW);   // turn the LED off
+  digitalWrite(BEEPPIN, LOW);   // turn the BEEP off
   delay(dotLength);
 }
 
 void dash()
 {
-  digitalWrite(LEDPIN, HIGH);   // turn the LED on
+  digitalWrite(BEEPPIN, HIGH);   // turn the BEEP on
   delay(dashLength);
-  digitalWrite(LEDPIN, LOW);   // turn the LED off
+  digitalWrite(BEEPPIN, LOW);   // turn the BEEP off
   delay(dotLength);
 } 
