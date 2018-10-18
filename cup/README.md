@@ -43,6 +43,16 @@ The picture does not yet have the jack or socket in place. Recommended to do the
 
 ---
 
+## Prototyping
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181009_013451.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_231030.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235518.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true)
+
 ### 8. Bend down the other leg on the opposite side of the center hole.
 Cathode leg : can be recognised from the flat side of the LED lense
 ![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_192134.jpg?raw=true)
