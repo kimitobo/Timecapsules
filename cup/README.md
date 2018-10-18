@@ -72,4 +72,3 @@ LED blinks for few seconds waiting for new code to be "played-in" from audio jac
 
 ![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235518.jpg?raw=true)
 
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true)
