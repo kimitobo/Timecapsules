@@ -21,13 +21,13 @@ Resistor code 471
 ---
 
 ### 4. Solder the audio jack in place
-Start with one solder pad, pay attention to aligning the feet on the pads, solder remaining 5 feet.
+Start with one solder pad, pay attention to aligning the feet on the pads, solder remaining 5 feet. (LED already in place in the pic, but leave that last)
 ![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_192903.jpg?raw=true)
 
 ----
 
 ### 5. Solder the chip socket in place
-Pads are small, bend pinds 90 degrees to sides, trim to match the footprint, start with one and align.
+Pads are small, bend pinds 90 degrees to sides, trim to match the footprint, start with one, and align.
 ![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_194346.jpg?raw=true)
 
 ---
@@ -42,16 +42,6 @@ The picture does not yet have the jack or socket in place. Recommended to do the
 ![](https://github.com/kimitobo/Timecapsules/blob/master/cup/PCB_solder_guide/20181013_191907.jpg?raw=true)
 
 ---
-
-## Prototyping
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181009_013451.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_231030.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235518.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true)
 
 ### 8. Bend down the other leg on the opposite side of the center hole.
 Cathode leg : can be recognised from the flat side of the LED lense
@@ -71,3 +61,15 @@ Between VCC (pin8) and GND full input voltage, between pin2 and GND half input v
 
 ### 11. Insert the pre-programmed chip and test
 LED blinks for few seconds waiting for new code to be "played-in" from audio jack
+
+---
+
+## Prototyping
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181009_013451.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_231030.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235518.jpg?raw=true)
+
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181008_235543.jpg?raw=true)
