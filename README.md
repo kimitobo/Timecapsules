@@ -10,46 +10,27 @@ How to send messages to the future? What messages should or should not be sent? 
 In this workshop, we take more playful approach and try to map various scenarios for knowledge transfer over different timespans, from 10 seconds to 10 million years - distilled bits of our culture, maybe poems, maybe self-executable code, maybe recipies of our food, maybe rules of our games.
 
 
-
 # The timecapsule design matrix
 
 For planning of your time capsule we create a design tool that has few key parameters in relation to time & durability. This should help you deciding the materials, symbols and methods you use.
 
-(matrix)
+![](https://github.com/kimitobo/Timecapsules/blob/master/pics/Timecapsules_matrix.png?raw=true)
 
 # Your message
 
-Usually time capsules written text, telling about the time of its creation and some artefacts of that time. If the timec capsule has date when it should be opened the earliest, it can also include future predictions of that time in the future. We are concentrating more on shorter message: If you could send one thing in to the future, what would it be? Piece of wisdom, warning, a joke, your secret food recipe or a poem. Think this in connection of the desired duration, how will it be understood if the timespan is longer. To get your design process started, lets gather quickly many ideas for the possible messages. This is a warm-up, don't think too much, there is still time to choose something completely different. You can work on the message ideas overnight and continue the next day.
+Usually time capsules contain written text & artifacts about the time of its creation. If the time capsule has an "expiry date", ie when it should be opened the earliest, it can also include future predictions of that time in the future. We are concentrating more on shorter messages. If you could send one thing in to the future, what would it be? Piece of wisdom, warning, a joke, your secret food recipe or a poem. Think this in connection of the desired duration, how will it be understood if the timespan is longer. To get your design process started, lets gather quickly many ideas for the possible messages. This is a warm-up, don't think too much, there is still time to choose something completely different. You can work on the message ideas overnight and continue the next day.
 
-(post-its)
+(TBD: notes)
 
-(design drafts)
-
-(what materials we have, preparation for 2nd day)
+(TBD: design drafts)
 
 ---------
 
-# Timeline
+## Timeline
 
-After deciding your "expiry date" on your time capsule, mark it on our timeline and research quickly history same amount of years today as your capsule will survive in the future, and mark your choice of world event to give some context and perspective on the timespan.
+After deciding your year in the future of your time capsule, mark it on our timeline and research matching historical events equally distanced from the past for giving some context and perspective regarding your timespan.
 
-## Your time capsule: Is it a stone
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_163023.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_165615.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_172148.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181004_175115.jpg?raw=true)
-
-![](https://github.com/kimitobo/Timecapsules/blob/master/pics/20181005_155816.jpg?raw=true)
-
-
------
-
-
-# Possible excercises
+## Possible excercises
 
 We make few quick conceptual experiments: one on disappearing messages, using light, smoke or sound and one thought experiment on cross-eon messaging. On the more practical part of the workshop, we make time capsules of our own, trying to store both digital and analog information over duration of our choosing. The participants can think this as a personal token to be passed on in the family, or as their very own “Voyager Golden Record”, sent to unknown civilizations. Various materials and methods are available for the making.
 
@@ -64,6 +45,7 @@ In this excercise we first discuss and design short ephemeral messages and then 
 Are there any? Not sent by us that's for sure. Is there, or has there been civilisation that communicates beyond time? Perhaps, but why can't we hear or see the message? "Where are they?" asks the Fermi Paradox. How far ahead in the future we, Homo Sapiens, can send our longest lasting faxes. To start answerng that, we can always look back. Our species is about 315.000 years old. For reference, rocks we chisel have been around 3.500.000.000 years. Go rocks! Our ancestors made some cave paintings 50.000 years ago, messages? unlikely sent deliberately to us to be received on 21st centory and beyond.
 (TBD: voyager, graffiti, rosetta, ray cats)
 
+---
 
 # References
 
