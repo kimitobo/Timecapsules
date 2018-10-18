@@ -55,7 +55,7 @@ const char * MorseTable[] = {
 
         };
 
-const char message[] = " DONUT ";
+const char message[] = " GENE ";
 
 int dotLength = 200;                    // length of the dot 200ms
 int dashLength =dotLength*3;            // length of the dash is 200ms x 3 = 600ms
