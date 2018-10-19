@@ -1,4 +1,4 @@
-# Code with the audiobootloader 
+# Code & the audiobootloader 
 
 Timecapsules PCB is based on ATtiny85 flashed with audiobootloader for programming using ArduinoIDE, hex2wav plugin and the 3.5mm audio jack on the board of the PCB. Pleas follow the 8BitMixtape instructions of this process:
 
