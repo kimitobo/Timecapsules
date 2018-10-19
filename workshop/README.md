@@ -41,10 +41,11 @@ Some messages does not need to last long, "See you in five mins" - has very litt
 
 In this excercise we first discuss and design short ephemeral messages and then try few techniques sending them only few seconds ahead in time using our voice, smoke of a insence and drawing with light.  For research purposes we can document this with recorder and camera but perhaps we destroy the evidence after the feedback session. :)
 
-## Messages lasting almost forever
+## Messages lasting eons
 
-Are there any? Not sent by us that's for sure. Is there, or has there been civilisation that communicates beyond time? Perhaps, but why can't we hear or see the message? "Where are they?" asks the Fermi Paradox. How far ahead in the future we, Homo Sapiens, can send our longest lasting faxes. To start answerng that, we can always look back. Our species is about 315.000 years old. For reference, rocks we chisel have been around 3.500.000.000 years. Go rocks! Our ancestors made some cave paintings 50.000 years ago, messages? unlikely sent deliberately to us to be received on 21st centory and beyond.
-(TBD: voyager, graffiti, rosetta, ray cats)
+Are there any? Not sent by us that's for sure. Is there, or has there been civilisation that communicates beyond time? Perhaps, but why can't we hear or see the message? "Where are they?" asks the Fermi Paradox. How far ahead in the future we, Homo Sapiens, can send our longest lasting faxes. To start answerng that, we can always look back. Our species is about 300.000 years old. For reference, rocks we chisel have been around 3.500.000.000 years. Go rocks! Our ancestors made some cave paintings 50.000 years ago, messages? Unlikely sent deliberately to us to be received on 21st centory and beyond. "Eon" in geological terms is one billion years. This excercise is a discussion.
+
+(work on process)
 
 ---
 
